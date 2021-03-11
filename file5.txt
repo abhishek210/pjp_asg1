@@ -1,0 +1,4 @@
+This is the fifth file in the txt format.
+We would like to see the merge conflict.
+
+Modified the file in feature branch.
