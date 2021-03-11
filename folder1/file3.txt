@@ -1,0 +1,2 @@
+This is the third file in txt fomat.
+It is initialised in folder1.
