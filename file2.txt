@@ -1,1 +1,3 @@
 This is the second file in the txt format.
+changes are made to check merge conflict.
+Let us add more changes.
