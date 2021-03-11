@@ -1,3 +1,7 @@
 This is the second file in the txt format.
+<<<<<<< HEAD
 changes are made to check merge conflict  in the same line.
+=======
+changes are made to check merge conflict some more changes in the same line.
+>>>>>>> main
 Let us add more changes.
